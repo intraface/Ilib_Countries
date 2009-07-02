@@ -1,0 +1,1731 @@
+<array>
+<XML_Serializer_Tag>
+<country>Country name</country>
+<iso3>ISO3</iso3>
+<region>Region</region>
+<region_code>Region code</region_code>
+<part_of>Part of</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Afghanistan</country>
+<iso3>AFG</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Åland Islands</country>
+<iso3>ALA</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>FIN</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Albania</country>
+<iso3>ALB</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Algeria</country>
+<iso3>DZA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>American Samoa</country>
+<iso3>ASM</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Andorra</country>
+<iso3>AND</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Angola</country>
+<iso3>AGO</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Anguilla</country>
+<iso3>AIA</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Antarctica</country>
+<iso3>ATA</iso3>
+<region>Arctic Region</region>
+<region_code>AR</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Antigua and Barbuda</country>
+<iso3>ATG</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Argentina</country>
+<iso3>ARG</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Armenia</country>
+<iso3>ARM</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Aruba</country>
+<iso3>ABW</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Australia</country>
+<iso3>AUS</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>AUS</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Austria</country>
+<iso3>AUT</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Azerbaijan</country>
+<iso3>AZE</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bahamas</country>
+<iso3>BHS</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bahrain</country>
+<iso3>BHR</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bangladesh</country>
+<iso3>BGD</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Barbados</country>
+<iso3>BRB</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Belarus</country>
+<iso3>BLR</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Belgium</country>
+<iso3>BEL</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Belize</country>
+<iso3>BLZ</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Benin</country>
+<iso3>BEN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bermuda</country>
+<iso3>BMU</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bhutan</country>
+<iso3>BTN</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bolivia</country>
+<iso3>BOL</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bosnia and Herzegovina</country>
+<iso3>BIH</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Botswana</country>
+<iso3>BWA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bouvet Island</country>
+<iso3>BVT</iso3>
+<region>Arctic Region</region>
+<region_code>AR</region_code>
+<part_of>NOR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Brazil</country>
+<iso3>BRA</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>British Indian Ocean Territory</country>
+<iso3>IOT</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Brunei Darussalam</country>
+<iso3>BRN</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Bulgaria</country>
+<iso3>BGR</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Burkina Faso</country>
+<iso3>BFA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Burundi</country>
+<iso3>BDI</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cambodia</country>
+<iso3>KHM</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cameroon</country>
+<iso3>CMR</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Canada</country>
+<iso3>CAN</iso3>
+<region>North America</region>
+<region_code>NA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cape Verde</country>
+<iso3>CPV</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cayman Islands</country>
+<iso3>CYM</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Central African Republic</country>
+<iso3>CAF</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Chad</country>
+<iso3>TCD</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Chile</country>
+<iso3>CHL</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>China</country>
+<iso3>CHN</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of>CHN</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Christmas Island</country>
+<iso3>CXR</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>AUS</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cocos Islands</country>
+<iso3>CCK</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>AUS</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Colombia</country>
+<iso3>COL</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Comoros</country>
+<iso3>COM</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Congo</country>
+<iso3>COG</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Congo, The Democratic Republic of the</country>
+<iso3>COD</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cook Islands</country>
+<iso3>COK</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>NZL</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Costa Rica</country>
+<iso3>CRI</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cõte d&apos;Ivoire</country>
+<iso3>CIV</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Croatia</country>
+<iso3>HRV</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cuba</country>
+<iso3>CUB</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Cyprus</country>
+<iso3>CYP</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Czech Republic</country>
+<iso3>CZE</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Denmark</country>
+<iso3>DNK</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>DNK</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Djibouti</country>
+<iso3>DJI</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Dominica</country>
+<iso3>DMA</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Dominican Republic</country>
+<iso3>DOM</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Ecuador</country>
+<iso3>ECU</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Egypt</country>
+<iso3>EGY</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>El Salvador</country>
+<iso3>SLV</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Equatorial Guinea</country>
+<iso3>GNQ</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Eritrea</country>
+<iso3>ERI</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Estonia</country>
+<iso3>EST</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Ethiopia</country>
+<iso3>ETH</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Falkland Islands</country>
+<iso3>FLK</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Faroe Islands</country>
+<iso3>FRO</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>DNK</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Fiji</country>
+<iso3>FJI</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Finland</country>
+<iso3>FIN</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>FIN</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>France</country>
+<iso3>FRA</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>French Guiana</country>
+<iso3>GUF</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>French Polynesia</country>
+<iso3>PYF</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>French Southern Territories</country>
+<iso3>ATF</iso3>
+<region>Arctic Region</region>
+<region_code>AR</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Gabon</country>
+<iso3>GAB</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Gambia</country>
+<iso3>GMB</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Georgia</country>
+<iso3>GEO</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Germany</country>
+<iso3>DEU</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Ghana</country>
+<iso3>GHA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Gibraltar</country>
+<iso3>GIB</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Greece</country>
+<iso3>GRC</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Greenland</country>
+<iso3>GRL</iso3>
+<region>North America</region>
+<region_code>NA</region_code>
+<part_of>DNK</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Grenada</country>
+<iso3>GRD</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guadeloupe</country>
+<iso3>GLP</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guam</country>
+<iso3>GUM</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guatemala</country>
+<iso3>GTM</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guernsey</country>
+<iso3>GGY</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guinea</country>
+<iso3>GIN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guinea-Bissau</country>
+<iso3>GNB</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Guyana</country>
+<iso3>GUY</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Haiti</country>
+<iso3>HTI</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Heard Island and McDonald Islands</country>
+<iso3>HMD</iso3>
+<region>Arctic Region</region>
+<region_code>AR</region_code>
+<part_of>AUS</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Holy See</country>
+<iso3>VAT</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Honduras</country>
+<iso3>HND</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Hong Kong</country>
+<iso3>HKG</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of>CHN</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Hungary</country>
+<iso3>HUN</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Iceland</country>
+<iso3>ISL</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>India</country>
+<iso3>IND</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Indonesia</country>
+<iso3>IDN</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Iran, Islamic Republic of</country>
+<iso3>IRN</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Iraq</country>
+<iso3>IRQ</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Ireland</country>
+<iso3>IRL</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Isle of Man</country>
+<iso3>IMN</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Israel</country>
+<iso3>ISR</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Italy</country>
+<iso3>ITA</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Jamaica</country>
+<iso3>JAM</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Japan</country>
+<iso3>JPN</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Jersey</country>
+<iso3>JEY</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Jordan</country>
+<iso3>JOR</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Kazakhstan</country>
+<iso3>KAZ</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Kenya</country>
+<iso3>KEN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Kiribati</country>
+<iso3>KIR</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Korea, Democratic People&apos;s Republic of</country>
+<iso3>PRK</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Korea, Republic of</country>
+<iso3>KOR</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Kuwait</country>
+<iso3>KWT</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Kyrgyzstan</country>
+<iso3>KGZ</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Lao, People&apos;s Democratic Republic</country>
+<iso3>LAO</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Latvia</country>
+<iso3>LVA</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Lebanon</country>
+<iso3>LBN</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Lesotho</country>
+<iso3>LSO</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Liberia</country>
+<iso3>LBR</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Libyan Arab Jamahiriya</country>
+<iso3>LBY</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Liechtenstein</country>
+<iso3>LIE</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Lithuania</country>
+<iso3>LTU</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Luxembourg</country>
+<iso3>LUX</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Macau</country>
+<iso3>MAC</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of>CHN</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Macedonia, The Former Yugoslav Republic of</country>
+<iso3>MKD</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Madagascar</country>
+<iso3>MDG</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Malawi</country>
+<iso3>MWI</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Malaysia</country>
+<iso3>MYS</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Maldives</country>
+<iso3>MDV</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mali</country>
+<iso3>MLI</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Malta</country>
+<iso3>MLT</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Marshall Islands</country>
+<iso3>MHL</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Martinique</country>
+<iso3>MTQ</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mauritania</country>
+<iso3>MRT</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mauritius</country>
+<iso3>MUS</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mayotte</country>
+<iso3>MYT</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mexico</country>
+<iso3>MEX</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Micronesia, Federated States of</country>
+<iso3>FSM</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Moldova</country>
+<iso3>MDA</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Monaco</country>
+<iso3>MCO</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mongolia</country>
+<iso3>MNG</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Montenegro</country>
+<iso3>MNE</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Montserrat</country>
+<iso3>MSR</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Morocco</country>
+<iso3>MAR</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Mozambique</country>
+<iso3>MOZ</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Myanmar</country>
+<iso3>MMR</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Namibia</country>
+<iso3>NAM</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Nauru</country>
+<iso3>NRU</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Nepal</country>
+<iso3>NPL</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Netherlands</country>
+<iso3>NLD</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Netherlands Antilles</country>
+<iso3>ANT</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>New Caledonia</country>
+<iso3>NCL</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>New Zealand</country>
+<iso3>NZL</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>NZL</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Nicaragua</country>
+<iso3>NIC</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Niger</country>
+<iso3>NER</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Nigeria</country>
+<iso3>NGA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Niue</country>
+<iso3>NIU</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>NZL</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Norfolk Island</country>
+<iso3>NFK</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>AUS</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Northern Mariana Islands</country>
+<iso3>MNP</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Norway</country>
+<iso3>NOR</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>NOR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Oman</country>
+<iso3>OMN</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Pakistan</country>
+<iso3>PAK</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Palau</country>
+<iso3>PLW</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Palestinian Territory</country>
+<iso3>PSE</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Panama</country>
+<iso3>PAN</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Papua New Guinea</country>
+<iso3>PNG</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Paraguay</country>
+<iso3>PRY</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Peru</country>
+<iso3>PER</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Philippines</country>
+<iso3>PHL</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Pitcairn</country>
+<iso3>PCN</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Poland</country>
+<iso3>POL</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Portugal</country>
+<iso3>PRT</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Puerto Rico</country>
+<iso3>PRI</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Qatar</country>
+<iso3>QAT</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Réunion</country>
+<iso3>REU</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Romania</country>
+<iso3>ROU</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Russian Federation</country>
+<iso3>RUS</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Rwanda</country>
+<iso3>RWA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Barthélemy</country>
+<iso3>BLM</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Helena</country>
+<iso3>SHN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Kitts and Nevis</country>
+<iso3>KNA</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Lucia</country>
+<iso3>LCA</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Martin</country>
+<iso3>MAF</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Pierre and Miquelon</country>
+<iso3>SPM</iso3>
+<region>North America</region>
+<region_code>NA</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saint Vincent and the Grenadines</country>
+<iso3>VCT</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Samoa</country>
+<iso3>WSM</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>San Marino</country>
+<iso3>SMR</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Sao Tome and Principe </country>
+<iso3>STP</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Saudi Arabia</country>
+<iso3>SAU</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Senegal</country>
+<iso3>SEN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Serbia</country>
+<iso3>SRB</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Seychelles</country>
+<iso3>SYC</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Sierra Leone</country>
+<iso3>SLE</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Singapore</country>
+<iso3>SGP</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Slovakia</country>
+<iso3>SVK</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Slovenia</country>
+<iso3>SVN</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Solomon Islands</country>
+<iso3>SLB</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Somalia</country>
+<iso3>SOM</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>South Africa</country>
+<iso3>ZAF</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>South Georgia and the South Sandwich Islands</country>
+<iso3>SGS</iso3>
+<region>Arctic Region</region>
+<region_code>AR</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Spain</country>
+<iso3>ESP</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Sri Lanka</country>
+<iso3>LKA</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Sudan</country>
+<iso3>SDN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Suriname</country>
+<iso3>SUR</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Svalbard and Jan Mayen</country>
+<iso3>SJM</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>NOR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Swaziland</country>
+<iso3>SWZ</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Sweden</country>
+<iso3>SWE</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Switzerland</country>
+<iso3>CHE</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Syrian Arab Republic</country>
+<iso3>SYR</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Taiwan</country>
+<iso3>TWN</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of>CHN</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Tajikistan</country>
+<iso3>TJK</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Tanzania, United Republic of</country>
+<iso3>TZA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Thailand</country>
+<iso3>THA</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Timor-Leste</country>
+<iso3>TLS</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Togo</country>
+<iso3>TGO</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Tokelau</country>
+<iso3>TKL</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>NZL</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Tonga</country>
+<iso3>TON</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Trinidad and Tobago</country>
+<iso3>TTO</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Tunisia</country>
+<iso3>TUN</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Turkey</country>
+<iso3>TUR</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Turkmenistan</country>
+<iso3>TKM</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Turks and Caicos Islands</country>
+<iso3>TCA</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Tuvalu</country>
+<iso3>TUV</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Uganda</country>
+<iso3>UGA</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Ukraine</country>
+<iso3>UKR</iso3>
+<region>Eastern Europe</region>
+<region_code>EE</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>United Arab Emirates</country>
+<iso3>ARE</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>United Kingdom</country>
+<iso3>GBR</iso3>
+<region>Western Europe</region>
+<region_code>WE</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>United States</country>
+<iso3>USA</iso3>
+<region>North America</region>
+<region_code>NA</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>United States Minor Outlying Islands</country>
+<iso3>UMI</iso3>
+<region>Arctic Region</region>
+<region_code>AR</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Uruguay</country>
+<iso3>URY</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Uzbekistan</country>
+<iso3>UZB</iso3>
+<region>West Asia</region>
+<region_code>WA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Vanuatu</country>
+<iso3>VUT</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Venezuela</country>
+<iso3>VEN</iso3>
+<region>South America</region>
+<region_code>SA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Viet Nam</country>
+<iso3>VNM</iso3>
+<region>East Asia</region>
+<region_code>EA</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Virgin Islands, British</country>
+<iso3>VGB</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>GBR</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Virgin Islands, U.S.</country>
+<iso3>VIR</iso3>
+<region>Central America</region>
+<region_code>CA</region_code>
+<part_of>USA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Wallis and Futuna</country>
+<iso3>WLF</iso3>
+<region>Oceania</region>
+<region_code>OZ</region_code>
+<part_of>FRA</part_of>
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Western Sahara</country>
+<iso3>ESH</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Yemen</country>
+<iso3>YEM</iso3>
+<region>Middle East</region>
+<region_code>ME</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Zambia</country>
+<iso3>ZMB</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+<XML_Serializer_Tag>
+<country>Zimbabwe</country>
+<iso3>ZWE</iso3>
+<region>Africa</region>
+<region_code>AF</region_code>
+<part_of />
+</XML_Serializer_Tag>
+</array>

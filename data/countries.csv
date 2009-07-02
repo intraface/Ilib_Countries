@@ -1,0 +1,247 @@
+"Country name";"ISO3";"Region";"Region code";"Part of"
+"Afghanistan";"AFG";"West Asia";"WA";
+"Åland Islands";"ALA";"Western Europe";"WE";"FIN"
+"Albania";"ALB";"Eastern Europe";"EE";
+"Algeria";"DZA";"Africa";"AF";
+"American Samoa";"ASM";"Oceania";"OZ";"USA"
+"Andorra";"AND";"Western Europe";"WE";
+"Angola";"AGO";"Africa";"AF";
+"Anguilla";"AIA";"Central America";"CA";"GBR"
+"Antarctica";"ATA";"Arctic Region";"AR";
+"Antigua and Barbuda";"ATG";"Central America";"CA";
+"Argentina";"ARG";"South America";"SA";
+"Armenia";"ARM";"West Asia";"WA";
+"Aruba";"ABW";"Central America";"CA";
+"Australia";"AUS";"Oceania";"OZ";"AUS"
+"Austria";"AUT";"Western Europe";"WE";
+"Azerbaijan";"AZE";"West Asia";"WA";
+"Bahamas";"BHS";"Central America";"CA";
+"Bahrain";"BHR";"Middle East";"ME";
+"Bangladesh";"BGD";"East Asia";"EA";
+"Barbados";"BRB";"Central America";"CA";
+"Belarus";"BLR";"Eastern Europe";"EE";
+"Belgium";"BEL";"Western Europe";"WE";
+"Belize";"BLZ";"Central America";"CA";
+"Benin";"BEN";"Africa";"AF";
+"Bermuda";"BMU";"Central America";"CA";
+"Bhutan";"BTN";"West Asia";"WA";
+"Bolivia";"BOL";"South America";"SA";
+"Bosnia and Herzegovina";"BIH";"Eastern Europe";"EE";
+"Botswana";"BWA";"Africa";"AF";
+"Bouvet Island";"BVT";"Arctic Region";"AR";"NOR"
+"Brazil";"BRA";"South America";"SA";
+"British Indian Ocean Territory";"IOT";"West Asia";"WA";"GBR"
+"Brunei Darussalam";"BRN";"East Asia";"EA";
+"Bulgaria";"BGR";"Eastern Europe";"EE";
+"Burkina Faso";"BFA";"Africa";"AF";
+"Burundi";"BDI";"Africa";"AF";
+"Cambodia";"KHM";"East Asia";"EA";
+"Cameroon";"CMR";"Africa";"AF";
+"Canada";"CAN";"North America";"NA";
+"Cape Verde";"CPV";"Africa";"AF";
+"Cayman Islands";"CYM";"Central America";"CA";
+"Central African Republic";"CAF";"Africa";"AF";
+"Chad";"TCD";"Africa";"AF";
+"Chile";"CHL";"South America";"SA";
+"China";"CHN";"East Asia";"EA";"CHN"
+"Christmas Island";"CXR";"Oceania";"OZ";"AUS"
+"Cocos Islands";"CCK";"Oceania";"OZ";"AUS"
+"Colombia";"COL";"South America";"SA";
+"Comoros";"COM";"Africa";"AF";
+"Congo";"COG";"Africa";"AF";
+"Congo, The Democratic Republic of the";"COD";"Africa";"AF";
+"Cook Islands";"COK";"Oceania";"OZ";"NZL"
+"Costa Rica";"CRI";"Central America";"CA";
+"Cõte d'Ivoire";"CIV";"Africa";"AF";
+"Croatia";"HRV";"Eastern Europe";"EE";
+"Cuba";"CUB";"Central America";"CA";
+"Cyprus";"CYP";"Eastern Europe";"EE";
+"Czech Republic";"CZE";"Eastern Europe";"EE";
+"Denmark";"DNK";"Western Europe";"WE";"DNK"
+"Djibouti";"DJI";"Africa";"AF";
+"Dominica";"DMA";"Central America";"CA";
+"Dominican Republic";"DOM";"Central America";"CA";
+"Ecuador";"ECU";"South America";"SA";
+"Egypt";"EGY";"Africa";"AF";
+"El Salvador";"SLV";"Central America";"CA";
+"Equatorial Guinea";"GNQ";"Africa";"AF";
+"Eritrea";"ERI";"Africa";"AF";
+"Estonia";"EST";"Eastern Europe";"EE";
+"Ethiopia";"ETH";"Africa";"AF";
+"Falkland Islands";"FLK";"South America";"SA";"GBR"
+"Faroe Islands";"FRO";"Western Europe";"WE";"DNK"
+"Fiji";"FJI";"Oceania";"OZ";
+"Finland";"FIN";"Western Europe";"WE";"FIN"
+"France";"FRA";"Western Europe";"WE";"FRA"
+"French Guiana";"GUF";"South America";"SA";"FRA"
+"French Polynesia";"PYF";"Oceania";"OZ";"FRA"
+"French Southern Territories";"ATF";"Arctic Region";"AR";"FRA"
+"Gabon";"GAB";"Africa";"AF";
+"Gambia";"GMB";"Africa";"AF";
+"Georgia";"GEO";"West Asia";"WA";
+"Germany";"DEU";"Western Europe";"WE";
+"Ghana";"GHA";"Africa";"AF";
+"Gibraltar";"GIB";"Western Europe";"WE";"GBR"
+"Greece";"GRC";"Eastern Europe";"EE";
+"Greenland";"GRL";"North America";"NA";"DNK"
+"Grenada";"GRD";"Central America";"CA";
+"Guadeloupe";"GLP";"Central America";"CA";"FRA"
+"Guam";"GUM";"Oceania";"OZ";"USA"
+"Guatemala";"GTM";"Central America";"CA";
+"Guernsey";"GGY";"Western Europe";"WE";"GBR"
+"Guinea";"GIN";"Africa";"AF";
+"Guinea-Bissau";"GNB";"Africa";"AF";
+"Guyana";"GUY";"South America";"SA";
+"Haiti";"HTI";"Central America";"CA";
+"Heard Island and McDonald Islands";"HMD";"Arctic Region";"AR";"AUS"
+"Holy See";"VAT";"Western Europe";"WE";
+"Honduras";"HND";"Central America";"CA";
+"Hong Kong";"HKG";"East Asia";"EA";"CHN"
+"Hungary";"HUN";"Eastern Europe";"EE";
+"Iceland";"ISL";"Western Europe";"WE";
+"India";"IND";"West Asia";"WA";
+"Indonesia";"IDN";"East Asia";"EA";
+"Iran, Islamic Republic of";"IRN";"Middle East";"ME";
+"Iraq";"IRQ";"Middle East";"ME";
+"Ireland";"IRL";"Western Europe";"WE";
+"Isle of Man";"IMN";"Western Europe";"WE";"GBR"
+"Israel";"ISR";"Middle East";"ME";
+"Italy";"ITA";"Western Europe";"WE";
+"Jamaica";"JAM";"Central America";"CA";
+"Japan";"JPN";"East Asia";"EA";
+"Jersey";"JEY";"Western Europe";"WE";"GBR"
+"Jordan";"JOR";"Middle East";"ME";
+"Kazakhstan";"KAZ";"West Asia";"WA";
+"Kenya";"KEN";"Africa";"AF";
+"Kiribati";"KIR";"Oceania";"OZ";
+"Korea, Democratic People's Republic of";"PRK";"East Asia";"EA";
+"Korea, Republic of";"KOR";"East Asia";"EA";
+"Kuwait";"KWT";"Middle East";"ME";
+"Kyrgyzstan";"KGZ";"West Asia";"WA";
+"Lao, People's Democratic Republic";"LAO";"East Asia";"EA";
+"Latvia";"LVA";"Eastern Europe";"EE";
+"Lebanon";"LBN";"Middle East";"ME";
+"Lesotho";"LSO";"Africa";"AF";
+"Liberia";"LBR";"Africa";"AF";
+"Libyan Arab Jamahiriya";"LBY";"Africa";"AF";
+"Liechtenstein";"LIE";"Western Europe";"WE";
+"Lithuania";"LTU";"Eastern Europe";"EE";
+"Luxembourg";"LUX";"Western Europe";"WE";
+"Macau";"MAC";"East Asia";"EA";"CHN"
+"Macedonia, The Former Yugoslav Republic of";"MKD";"Eastern Europe";"EE";
+"Madagascar";"MDG";"Africa";"AF";
+"Malawi";"MWI";"Africa";"AF";
+"Malaysia";"MYS";"East Asia";"EA";
+"Maldives";"MDV";"West Asia";"WA";
+"Mali";"MLI";"Africa";"AF";
+"Malta";"MLT";"Western Europe";"WE";
+"Marshall Islands";"MHL";"Oceania";"OZ";"USA"
+"Martinique";"MTQ";"Central America";"CA";"FRA"
+"Mauritania";"MRT";"Africa";"AF";
+"Mauritius";"MUS";"Africa";"AF";
+"Mayotte";"MYT";"Africa";"AF";"FRA"
+"Mexico";"MEX";"Central America";"CA";
+"Micronesia, Federated States of";"FSM";"Oceania";"OZ";"USA"
+"Moldova";"MDA";"Eastern Europe";"EE";
+"Monaco";"MCO";"Western Europe";"WE";
+"Mongolia";"MNG";"East Asia";"EA";
+"Montenegro";"MNE";"Eastern Europe";"EE";
+"Montserrat";"MSR";"Central America";"CA";"GBR"
+"Morocco";"MAR";"Africa";"AF";
+"Mozambique";"MOZ";"Africa";"AF";
+"Myanmar";"MMR";"East Asia";"EA";
+"Namibia";"NAM";"Africa";"AF";
+"Nauru";"NRU";"Oceania";"OZ";
+"Nepal";"NPL";"West Asia";"WA";
+"Netherlands";"NLD";"Western Europe";"WE";
+"Netherlands Antilles";"ANT";"Central America";"CA";
+"New Caledonia";"NCL";"Oceania";"OZ";"FRA"
+"New Zealand";"NZL";"Oceania";"OZ";"NZL"
+"Nicaragua";"NIC";"Central America";"CA";
+"Niger";"NER";"Africa";"AF";
+"Nigeria";"NGA";"Africa";"AF";
+"Niue";"NIU";"Oceania";"OZ";"NZL"
+"Norfolk Island";"NFK";"Oceania";"OZ";"AUS"
+"Northern Mariana Islands";"MNP";"Oceania";"OZ";"USA"
+"Norway";"NOR";"Western Europe";"WE";"NOR"
+"Oman";"OMN";"Middle East";"ME";
+"Pakistan";"PAK";"West Asia";"WA";
+"Palau";"PLW";"Oceania";"OZ";"USA"
+"Palestinian Territory";"PSE";"Middle East";"ME";
+"Panama";"PAN";"Central America";"CA";
+"Papua New Guinea";"PNG";"East Asia";"EA";
+"Paraguay";"PRY";"South America";"SA";
+"Peru";"PER";"South America";"SA";
+"Philippines";"PHL";"East Asia";"EA";
+"Pitcairn";"PCN";"Oceania";"OZ";"GBR"
+"Poland";"POL";"Eastern Europe";"EE";
+"Portugal";"PRT";"Western Europe";"WE";
+"Puerto Rico";"PRI";"Central America";"CA";"USA"
+"Qatar";"QAT";"Middle East";"ME";
+"Réunion";"REU";"Africa";"AF";"FRA"
+"Romania";"ROU";"Eastern Europe";"EE";
+"Russian Federation";"RUS";"Eastern Europe";"EE";
+"Rwanda";"RWA";"Africa";"AF";
+"Saint Barthélemy";"BLM";"Central America";"CA";"FRA"
+"Saint Helena";"SHN";"Africa";"AF";"GBR"
+"Saint Kitts and Nevis";"KNA";"Central America";"CA";
+"Saint Lucia";"LCA";"Central America";"CA";"GBR"
+"Saint Martin";"MAF";"Central America";"CA";"FRA"
+"Saint Pierre and Miquelon";"SPM";"North America";"NA";"FRA"
+"Saint Vincent and the Grenadines";"VCT";"Central America";"CA";
+"Samoa";"WSM";"Oceania";"OZ";
+"San Marino";"SMR";"Western Europe";"WE";
+"Sao Tome and Principe ";"STP";"Africa";"AF";
+"Saudi Arabia";"SAU";"Middle East";"ME";
+"Senegal";"SEN";"Africa";"AF";
+"Serbia";"SRB";"Eastern Europe";"EE";
+"Seychelles";"SYC";"Africa";"AF";
+"Sierra Leone";"SLE";"Africa";"AF";
+"Singapore";"SGP";"East Asia";"EA";
+"Slovakia";"SVK";"Eastern Europe";"EE";
+"Slovenia";"SVN";"Eastern Europe";"EE";
+"Solomon Islands";"SLB";"Oceania";"OZ";
+"Somalia";"SOM";"Africa";"AF";
+"South Africa";"ZAF";"Africa";"AF";
+"South Georgia and the South Sandwich Islands";"SGS";"Arctic Region";"AR";"GBR"
+"Spain";"ESP";"Western Europe";"WE";
+"Sri Lanka";"LKA";"West Asia";"WA";
+"Sudan";"SDN";"Africa";"AF";
+"Suriname";"SUR";"South America";"SA";
+"Svalbard and Jan Mayen";"SJM";"Western Europe";"WE";"NOR"
+"Swaziland";"SWZ";"Africa";"AF";
+"Sweden";"SWE";"Western Europe";"WE";
+"Switzerland";"CHE";"Western Europe";"WE";
+"Syrian Arab Republic";"SYR";"Middle East";"ME";
+"Taiwan";"TWN";"East Asia";"EA";"CHN"
+"Tajikistan";"TJK";"West Asia";"WA";
+"Tanzania, United Republic of";"TZA";"Africa";"AF";
+"Thailand";"THA";"East Asia";"EA";
+"Timor-Leste";"TLS";"East Asia";"EA";
+"Togo";"TGO";"Africa";"AF";
+"Tokelau";"TKL";"Oceania";"OZ";"NZL"
+"Tonga";"TON";"Oceania";"OZ";
+"Trinidad and Tobago";"TTO";"Central America";"CA";
+"Tunisia";"TUN";"Africa";"AF";
+"Turkey";"TUR";"West Asia";"WA";
+"Turkmenistan";"TKM";"West Asia";"WA";
+"Turks and Caicos Islands";"TCA";"Central America";"CA";"GBR"
+"Tuvalu";"TUV";"Oceania";"OZ";
+"Uganda";"UGA";"Africa";"AF";
+"Ukraine";"UKR";"Eastern Europe";"EE";
+"United Arab Emirates";"ARE";"Middle East";"ME";
+"United Kingdom";"GBR";"Western Europe";"WE";"GBR"
+"United States";"USA";"North America";"NA";"USA"
+"United States Minor Outlying Islands";"UMI";"Arctic Region";"AR";"USA"
+"Uruguay";"URY";"South America";"SA";
+"Uzbekistan";"UZB";"West Asia";"WA";
+"Vanuatu";"VUT";"Oceania";"OZ";
+"Venezuela";"VEN";"South America";"SA";
+"Viet Nam";"VNM";"East Asia";"EA";
+"Virgin Islands, British";"VGB";"Central America";"CA";"GBR"
+"Virgin Islands, U.S.";"VIR";"Central America";"CA";"USA"
+"Wallis and Futuna";"WLF";"Oceania";"OZ";"FRA"
+"Western Sahara";"ESH";"Africa";"AF";
+"Yemen";"YEM";"Middle East";"ME";
+"Zambia";"ZMB";"Africa";"AF";
+"Zimbabwe";"ZWE";"Africa";"AF";
