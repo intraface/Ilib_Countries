@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Countries [
+<!ELEMENT countries (country*)>
+<!ELEMENT country (iso3,region,region_code,part_of)>
+<!ATTLIST country name CDATA #REQUIRED>
+<!ELEMENT iso3 (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT region_code (#PCDATA)>
+<!ELEMENT part_of (#PCDATA)>
+]>
+<countries>
+  <country name="Afghanistan">
+    <iso3>AFG</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Åland Islands">
+    <iso3>ALA</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>FIN</part_of>
+  </country>
+  <country name="Albania">
+    <iso3>ALB</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Algeria">
+    <iso3>DZA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="American Samoa">
+    <iso3>ASM</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Andorra">
+    <iso3>AND</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Angola">
+    <iso3>AGO</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Anguilla">
+    <iso3>AIA</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Antarctica">
+    <iso3>ATA</iso3>
+    <region>Arctic Region</region>
+    <region_code>AR</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Antigua and Barbuda">
+    <iso3>ATG</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Argentina">
+    <iso3>ARG</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Armenia">
+    <iso3>ARM</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Aruba">
+    <iso3>ABW</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Australia">
+    <iso3>AUS</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>AUS</part_of>
+  </country>
+  <country name="Austria">
+    <iso3>AUT</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Azerbaijan">
+    <iso3>AZE</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bahamas">
+    <iso3>BHS</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bahrain">
+    <iso3>BHR</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bangladesh">
+    <iso3>BGD</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Barbados">
+    <iso3>BRB</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Belarus">
+    <iso3>BLR</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Belgium">
+    <iso3>BEL</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Belize">
+    <iso3>BLZ</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Benin">
+    <iso3>BEN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bermuda">
+    <iso3>BMU</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bhutan">
+    <iso3>BTN</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bolivia">
+    <iso3>BOL</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bosnia and Herzegovina">
+    <iso3>BIH</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Botswana">
+    <iso3>BWA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bouvet Island">
+    <iso3>BVT</iso3>
+    <region>Arctic Region</region>
+    <region_code>AR</region_code>
+    <part_of>NOR</part_of>
+  </country>
+  <country name="Brazil">
+    <iso3>BRA</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="British Indian Ocean Territory">
+    <iso3>IOT</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Brunei Darussalam">
+    <iso3>BRN</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Bulgaria">
+    <iso3>BGR</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Burkina Faso">
+    <iso3>BFA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Burundi">
+    <iso3>BDI</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cambodia">
+    <iso3>KHM</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cameroon">
+    <iso3>CMR</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Canada">
+    <iso3>CAN</iso3>
+    <region>North America</region>
+    <region_code>NA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cape Verde">
+    <iso3>CPV</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cayman Islands">
+    <iso3>CYM</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Central African Republic">
+    <iso3>CAF</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Chad">
+    <iso3>TCD</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Chile">
+    <iso3>CHL</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="China">
+    <iso3>CHN</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of>CHN</part_of>
+  </country>
+  <country name="Christmas Island">
+    <iso3>CXR</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>AUS</part_of>
+  </country>
+  <country name="Cocos Islands">
+    <iso3>CCK</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>AUS</part_of>
+  </country>
+  <country name="Colombia">
+    <iso3>COL</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Comoros">
+    <iso3>COM</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Congo">
+    <iso3>COG</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Congo, The Democratic Republic of the">
+    <iso3>COD</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cook Islands">
+    <iso3>COK</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>NZL</part_of>
+  </country>
+  <country name="Costa Rica">
+    <iso3>CRI</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cõte d'Ivoire">
+    <iso3>CIV</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Croatia">
+    <iso3>HRV</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cuba">
+    <iso3>CUB</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Cyprus">
+    <iso3>CYP</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Czech Republic">
+    <iso3>CZE</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Denmark">
+    <iso3>DNK</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>DNK</part_of>
+  </country>
+  <country name="Djibouti">
+    <iso3>DJI</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Dominica">
+    <iso3>DMA</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Dominican Republic">
+    <iso3>DOM</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Ecuador">
+    <iso3>ECU</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Egypt">
+    <iso3>EGY</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="El Salvador">
+    <iso3>SLV</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Equatorial Guinea">
+    <iso3>GNQ</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Eritrea">
+    <iso3>ERI</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Estonia">
+    <iso3>EST</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Ethiopia">
+    <iso3>ETH</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Falkland Islands">
+    <iso3>FLK</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Faroe Islands">
+    <iso3>FRO</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>DNK</part_of>
+  </country>
+  <country name="Fiji">
+    <iso3>FJI</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Finland">
+    <iso3>FIN</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>FIN</part_of>
+  </country>
+  <country name="France">
+    <iso3>FRA</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="French Guiana">
+    <iso3>GUF</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="French Polynesia">
+    <iso3>PYF</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="French Southern Territories">
+    <iso3>ATF</iso3>
+    <region>Arctic Region</region>
+    <region_code>AR</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Gabon">
+    <iso3>GAB</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Gambia">
+    <iso3>GMB</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Georgia">
+    <iso3>GEO</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Germany">
+    <iso3>DEU</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Ghana">
+    <iso3>GHA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Gibraltar">
+    <iso3>GIB</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Greece">
+    <iso3>GRC</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Greenland">
+    <iso3>GRL</iso3>
+    <region>North America</region>
+    <region_code>NA</region_code>
+    <part_of>DNK</part_of>
+  </country>
+  <country name="Grenada">
+    <iso3>GRD</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Guadeloupe">
+    <iso3>GLP</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Guam">
+    <iso3>GUM</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Guatemala">
+    <iso3>GTM</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Guernsey">
+    <iso3>GGY</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Guinea">
+    <iso3>GIN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Guinea-Bissau">
+    <iso3>GNB</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Guyana">
+    <iso3>GUY</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Haiti">
+    <iso3>HTI</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Heard Island and McDonald Islands">
+    <iso3>HMD</iso3>
+    <region>Arctic Region</region>
+    <region_code>AR</region_code>
+    <part_of>AUS</part_of>
+  </country>
+  <country name="Holy See">
+    <iso3>VAT</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Honduras">
+    <iso3>HND</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Hong Kong">
+    <iso3>HKG</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of>CHN</part_of>
+  </country>
+  <country name="Hungary">
+    <iso3>HUN</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Iceland">
+    <iso3>ISL</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="India">
+    <iso3>IND</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Indonesia">
+    <iso3>IDN</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Iran, Islamic Republic of">
+    <iso3>IRN</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Iraq">
+    <iso3>IRQ</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Ireland">
+    <iso3>IRL</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Isle of Man">
+    <iso3>IMN</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Israel">
+    <iso3>ISR</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Italy">
+    <iso3>ITA</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Jamaica">
+    <iso3>JAM</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Japan">
+    <iso3>JPN</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Jersey">
+    <iso3>JEY</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Jordan">
+    <iso3>JOR</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Kazakhstan">
+    <iso3>KAZ</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Kenya">
+    <iso3>KEN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Kiribati">
+    <iso3>KIR</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Korea, Democratic People's Republic of">
+    <iso3>PRK</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Korea, Republic of">
+    <iso3>KOR</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Kuwait">
+    <iso3>KWT</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Kyrgyzstan">
+    <iso3>KGZ</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Lao, People's Democratic Republic">
+    <iso3>LAO</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Latvia">
+    <iso3>LVA</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Lebanon">
+    <iso3>LBN</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Lesotho">
+    <iso3>LSO</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Liberia">
+    <iso3>LBR</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Libyan Arab Jamahiriya">
+    <iso3>LBY</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Liechtenstein">
+    <iso3>LIE</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Lithuania">
+    <iso3>LTU</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Luxembourg">
+    <iso3>LUX</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Macau">
+    <iso3>MAC</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of>CHN</part_of>
+  </country>
+  <country name="Macedonia, The Former Yugoslav Republic of">
+    <iso3>MKD</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Madagascar">
+    <iso3>MDG</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Malawi">
+    <iso3>MWI</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Malaysia">
+    <iso3>MYS</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Maldives">
+    <iso3>MDV</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Mali">
+    <iso3>MLI</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Malta">
+    <iso3>MLT</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Marshall Islands">
+    <iso3>MHL</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Martinique">
+    <iso3>MTQ</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Mauritania">
+    <iso3>MRT</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Mauritius">
+    <iso3>MUS</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Mayotte">
+    <iso3>MYT</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Mexico">
+    <iso3>MEX</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Micronesia, Federated States of">
+    <iso3>FSM</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Moldova">
+    <iso3>MDA</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Monaco">
+    <iso3>MCO</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Mongolia">
+    <iso3>MNG</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Montenegro">
+    <iso3>MNE</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Montserrat">
+    <iso3>MSR</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Morocco">
+    <iso3>MAR</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Mozambique">
+    <iso3>MOZ</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Myanmar">
+    <iso3>MMR</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Namibia">
+    <iso3>NAM</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Nauru">
+    <iso3>NRU</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Nepal">
+    <iso3>NPL</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Netherlands">
+    <iso3>NLD</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Netherlands Antilles">
+    <iso3>ANT</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="New Caledonia">
+    <iso3>NCL</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="New Zealand">
+    <iso3>NZL</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>NZL</part_of>
+  </country>
+  <country name="Nicaragua">
+    <iso3>NIC</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Niger">
+    <iso3>NER</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Nigeria">
+    <iso3>NGA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Niue">
+    <iso3>NIU</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>NZL</part_of>
+  </country>
+  <country name="Norfolk Island">
+    <iso3>NFK</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>AUS</part_of>
+  </country>
+  <country name="Northern Mariana Islands">
+    <iso3>MNP</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Norway">
+    <iso3>NOR</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>NOR</part_of>
+  </country>
+  <country name="Oman">
+    <iso3>OMN</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Pakistan">
+    <iso3>PAK</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Palau">
+    <iso3>PLW</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Palestinian Territory">
+    <iso3>PSE</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Panama">
+    <iso3>PAN</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Papua New Guinea">
+    <iso3>PNG</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Paraguay">
+    <iso3>PRY</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Peru">
+    <iso3>PER</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Philippines">
+    <iso3>PHL</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Pitcairn">
+    <iso3>PCN</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Poland">
+    <iso3>POL</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Portugal">
+    <iso3>PRT</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Puerto Rico">
+    <iso3>PRI</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Qatar">
+    <iso3>QAT</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Réunion">
+    <iso3>REU</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Romania">
+    <iso3>ROU</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Russian Federation">
+    <iso3>RUS</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Rwanda">
+    <iso3>RWA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Saint Barthélemy">
+    <iso3>BLM</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Saint Helena">
+    <iso3>SHN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Saint Kitts and Nevis">
+    <iso3>KNA</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Saint Lucia">
+    <iso3>LCA</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Saint Martin">
+    <iso3>MAF</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Saint Pierre and Miquelon">
+    <iso3>SPM</iso3>
+    <region>North America</region>
+    <region_code>NA</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Saint Vincent and the Grenadines">
+    <iso3>VCT</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Samoa">
+    <iso3>WSM</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="San Marino">
+    <iso3>SMR</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Sao Tome and Principe ">
+    <iso3>STP</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Saudi Arabia">
+    <iso3>SAU</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Senegal">
+    <iso3>SEN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Serbia">
+    <iso3>SRB</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Seychelles">
+    <iso3>SYC</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Sierra Leone">
+    <iso3>SLE</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Singapore">
+    <iso3>SGP</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Slovakia">
+    <iso3>SVK</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Slovenia">
+    <iso3>SVN</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Solomon Islands">
+    <iso3>SLB</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Somalia">
+    <iso3>SOM</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="South Africa">
+    <iso3>ZAF</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="South Georgia and the South Sandwich Islands">
+    <iso3>SGS</iso3>
+    <region>Arctic Region</region>
+    <region_code>AR</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Spain">
+    <iso3>ESP</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Sri Lanka">
+    <iso3>LKA</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Sudan">
+    <iso3>SDN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Suriname">
+    <iso3>SUR</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Svalbard and Jan Mayen">
+    <iso3>SJM</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>NOR</part_of>
+  </country>
+  <country name="Swaziland">
+    <iso3>SWZ</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Sweden">
+    <iso3>SWE</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Switzerland">
+    <iso3>CHE</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Syrian Arab Republic">
+    <iso3>SYR</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Taiwan">
+    <iso3>TWN</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of>CHN</part_of>
+  </country>
+  <country name="Tajikistan">
+    <iso3>TJK</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Tanzania, United Republic of">
+    <iso3>TZA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Thailand">
+    <iso3>THA</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Timor-Leste">
+    <iso3>TLS</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Togo">
+    <iso3>TGO</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Tokelau">
+    <iso3>TKL</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>NZL</part_of>
+  </country>
+  <country name="Tonga">
+    <iso3>TON</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Trinidad and Tobago">
+    <iso3>TTO</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Tunisia">
+    <iso3>TUN</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Turkey">
+    <iso3>TUR</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Turkmenistan">
+    <iso3>TKM</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Turks and Caicos Islands">
+    <iso3>TCA</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Tuvalu">
+    <iso3>TUV</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Uganda">
+    <iso3>UGA</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Ukraine">
+    <iso3>UKR</iso3>
+    <region>Eastern Europe</region>
+    <region_code>EE</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="United Arab Emirates">
+    <iso3>ARE</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="United Kingdom">
+    <iso3>GBR</iso3>
+    <region>Western Europe</region>
+    <region_code>WE</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="United States">
+    <iso3>USA</iso3>
+    <region>North America</region>
+    <region_code>NA</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="United States Minor Outlying Islands">
+    <iso3>UMI</iso3>
+    <region>Arctic Region</region>
+    <region_code>AR</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Uruguay">
+    <iso3>URY</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Uzbekistan">
+    <iso3>UZB</iso3>
+    <region>West Asia</region>
+    <region_code>WA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Vanuatu">
+    <iso3>VUT</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Venezuela">
+    <iso3>VEN</iso3>
+    <region>South America</region>
+    <region_code>SA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Viet Nam">
+    <iso3>VNM</iso3>
+    <region>East Asia</region>
+    <region_code>EA</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Virgin Islands, British">
+    <iso3>VGB</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>GBR</part_of>
+  </country>
+  <country name="Virgin Islands, U.S.">
+    <iso3>VIR</iso3>
+    <region>Central America</region>
+    <region_code>CA</region_code>
+    <part_of>USA</part_of>
+  </country>
+  <country name="Wallis and Futuna">
+    <iso3>WLF</iso3>
+    <region>Oceania</region>
+    <region_code>OZ</region_code>
+    <part_of>FRA</part_of>
+  </country>
+  <country name="Western Sahara">
+    <iso3>ESH</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Yemen">
+    <iso3>YEM</iso3>
+    <region>Middle East</region>
+    <region_code>ME</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Zambia">
+    <iso3>ZMB</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+  <country name="Zimbabwe">
+    <iso3>ZWE</iso3>
+    <region>Africa</region>
+    <region_code>AF</region_code>
+    <part_of></part_of>
+  </country>
+</countries>
