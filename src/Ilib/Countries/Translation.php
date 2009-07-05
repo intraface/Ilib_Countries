@@ -2,6 +2,11 @@
 class Ilib_Countries_Translation
 {
     
+    /**
+     * Returns Translation2 object initialized with countries translations.
+     * 
+     * return object Translation2
+     */
     public static function factory()
     {
         $driver = "XML";
