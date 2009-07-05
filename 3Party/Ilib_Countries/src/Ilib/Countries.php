@@ -14,10 +14,6 @@ class Ilib_Countries
         $file = dirname(__FILE__).'/Countries/countries.xml';
         $contents = file_get_contents($file);
         
-        //$reader = new XMLReader;
-        // $reader->open($file, 'utf-8');
-        
-        
         $parser = xml_parser_create('utf-8');
         if(!$parser) throw new Exception('Unable to load xml parser');
 
@@ -51,7 +47,20 @@ class Ilib_Countries
         return false;
     }
     
-    public function getCountriesByRegionName($region)
+    public function getAll()
+    {
+        
+        $result = array();
+        
+        foreach($this->countries AS $country => $attribute) {
+            $result[$country] = $country;
+        }
+        
+        asort($result);
+        return $result;
+    }
+    
+    public function getCountriesByRegionName($region, $translation = NULL)
     {
         if(is_string($region)) {
             $region = array($region);
@@ -69,7 +78,12 @@ class Ilib_Countries
         
         foreach($this->countries AS $country => $attribute) {
             if(in_array($attribute['region'], $region, false)) {
-                $result[$country] = $country;
+                if($translation != NULL) {
+                    $result[$country] = $translation->get($country);
+                }
+                else {
+                    $result[$country] = $country;
+                }
             } 
         }
         
@@ -99,33 +113,7 @@ class Ilib_Countries
             'NA' => 'North America'
         );
     }
-    
-    
-    function getReduced($translation = NULL)
-    {
-        $countries = array('Albania', 'Andorra', 'Australia', 'Austria', 'Bahrain', 'Belarus', 'Belgium', 'Bermuda', 'Bosnia and Herzegovina', 'Brazil', 
-            'Bulgaria', 'Canada', 'Canary Islands', 'China', 'Corsica', 'Croatia', 'Cyprus', 
-            'Czech Republic', 'Denmark', 'Estonia', 'Finland', 'France', 'Germany', 'Gibraltar', 
-            'Greece', 'Greenland', 'Hong Kong', 'Holland', 'Hungary', 'Iceland', 'India', 'Ireland', 'Israel', 
-            'Italy', 'Japan', 'Jordan', 'Kuwait', 'Latvia', 'Lebanon', 'Lithuania', 'Liechtenstein', 'Luxembourg', 
-            'Macedonia', 'Malta', 'Mexico', 'Moldova', 'Monaco', 'Netherlands', 'New Zealand', 'Norway', 'Poland', 
-            'Portugal', 'Qatar', 'Romania', 'Russia', 'San Marino', 'Saudi Arabia', 'Serbia and Montenegro', 'Singapore', 'Slovakia', 
-            'Slovenia', 'South Korea', 'Spain', 'Sweden', 'Switzerland', 'Taiwan', 'Turkey', 'Ukraine',
-            'United Kingdom', 'United Arab Emirates', 'United States of America');
-        
-        $countries_with_key = array();
-        foreach($countries AS $country) {
-            if($translation != NULL) {
-                $countries_with_key[$country] = $translation->get($country);
-            } else {
-                $countries_with_key[$country] = $country;
-            }
-        }
-        
-        asort($countries_with_key);
-        
-        return $countries_with_key;
-    }
+
 }
 
 ?>

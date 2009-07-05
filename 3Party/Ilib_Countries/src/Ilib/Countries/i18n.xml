@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE translation2 [
+<!ELEMENT translation2 (languages,pages)>
+<!ELEMENT languages (lang*)>
+<!ELEMENT lang (name?,meta?,error_text?,encoding?)>
+<!ATTLIST lang id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT meta (#PCDATA)>
+<!ELEMENT error_text (#PCDATA)>
+<!ELEMENT encoding (#PCDATA)>
+<!ELEMENT pages (page*)>
+<!ELEMENT page (string*)>
+<!ATTLIST page key CDATA #REQUIRED>
+<!ELEMENT string (tr*)>
+<!ATTLIST string key CDATA #REQUIRED>
+<!ELEMENT tr (#PCDATA)>
+<!ATTLIST tr lang IDREF #REQUIRED>
+]>
+
+<translation2>
+  <languages>
+    <lang id="da">
+      <name> Danish </name>
+      <meta> none </meta>
+      <error_text> none </error_text>
+      <encoding> UTF-8 </encoding>
+    </lang>
+  </languages>
+  <pages>
+    <page key="#NULL">
+      <string key="Afghanistan">
+        <tr lang="da">Afghanistan</tr>
+      </string>
+      <string key="Albania">
+        <tr lang="da">Albanien</tr>
+      </string>
+      <string key="Algeria">
+        <tr lang="da">Algeriet</tr>
+      </string>
+      <string key="American Samoa">
+        <tr lang="da">Amerikansk Samoa</tr>
+      </string>
+      <string key="Andorra">
+        <tr lang="da">Andorra</tr>
+      </string>
+      <string key="Angola">
+        <tr lang="da">Angola</tr>
+      </string>
+      <string key="Anguilla">
+        <tr lang="da">Anguilla</tr>
+      </string>
+      <string key="Antarctica">
+        <tr lang="da">Antarktis</tr>
+      </string>
+      <string key="Antigua and Barbuda">
+        <tr lang="da">Antigua og Barbuda</tr>
+      </string>
+      <string key="Argentina">
+        <tr lang="da">Argentina</tr>
+      </string>
+      <string key="Armenia">
+        <tr lang="da">Armenien</tr>
+      </string>
+      <string key="Aruba">
+        <tr lang="da">Aruba</tr>
+      </string>
+      <string key="Australia">
+        <tr lang="da">Australien</tr>
+      </string>
+      <string key="Austria">
+        <tr lang="da">Østrig</tr>
+      </string>
+      <string key="Azerbaijan">
+        <tr lang="da">Aserbajdsjan</tr>
+      </string>
+      <string key="Bahamas">
+        <tr lang="da">Bahamas</tr>
+      </string>
+      <string key="Bahrain">
+        <tr lang="da">Bahrain</tr>
+      </string>
+      <string key="Bangladesh">
+        <tr lang="da">Bangladesh</tr>
+      </string>
+      <string key="Barbados">
+        <tr lang="da">Barbados</tr>
+      </string>
+      <string key="Belarus">
+        <tr lang="da">Hviderusland</tr>
+      </string>
+      <string key="Belgium">
+        <tr lang="da">Belgien</tr>
+      </string>
+      <string key="Belize">
+        <tr lang="da">Belize</tr>
+      </string>
+      <string key="Benin">
+        <tr lang="da">Benin</tr>
+      </string>
+      <string key="Bermuda">
+        <tr lang="da">Bermuda</tr>
+      </string>
+      <string key="Bhutan">
+        <tr lang="da">Bhutan</tr>
+      </string>
+      <string key="Bolivia">
+        <tr lang="da">Bolivia</tr>
+      </string>
+      <string key="Bosnia and Herzegovina">
+        <tr lang="da">Bosnien og Herzegovina</tr>
+      </string>
+      <string key="Botswana">
+        <tr lang="da">Botswana</tr>
+      </string>
+      <string key="Bouvet Island">
+        <tr lang="da">Bouvetøen</tr>
+      </string>
+      <string key="Brazil">
+        <tr lang="da">Brasilien</tr>
+      </string>
+      <string key="British Indian Ocean Territory">
+        <tr lang="da">Britisk oversøisk territorium</tr>
+      </string>
+      <string key="Brunei Darussalam">
+        <tr lang="da">Brunei</tr>
+      </string>
+      <string key="Bulgaria">
+        <tr lang="da">Bulgarien</tr>
+      </string>
+      <string key="Burkina Faso">
+        <tr lang="da">Burkina Faso</tr>
+      </string>
+      <string key="Burundi">
+        <tr lang="da">Burundi</tr>
+      </string>
+      <string key="Cambodia">
+        <tr lang="da">Cambodia</tr>
+      </string>
+      <string key="Cameroon">
+        <tr lang="da">Cameroun</tr>
+      </string>
+      <string key="Canada">
+        <tr lang="da">Canada</tr>
+      </string>
+      <string key="Cape Verde">
+        <tr lang="da">Kap Verde</tr>
+      </string>
+      <string key="Cayman Islands">
+        <tr lang="da">Caymanøerne</tr>
+      </string>
+      <string key="Central African Republic">
+        <tr lang="da">Centralafrikanske Republik</tr>
+      </string>
+      <string key="Chad">
+        <tr lang="da">Chad</tr>
+      </string>
+      <string key="Chile">
+        <tr lang="da">Chile</tr>
+      </string>
+      <string key="China">
+        <tr lang="da">Kina</tr>
+      </string>
+      <string key="Christmas Island">
+        <tr lang="da">Christmas Island</tr>
+      </string>
+      <string key="Cocos Islands">
+        <tr lang="da">Cocosøerne</tr>
+      </string>
+      <string key="Colombia">
+        <tr lang="da">Colombia</tr>
+      </string>
+      <string key="Comoros">
+        <tr lang="da">Comorerne</tr>
+      </string>
+      <string key="Congo">
+        <tr lang="da">Congo</tr>
+      </string>
+      <string key="Congo, The Democratic Republic of the">
+        <tr lang="da">Congo, Den Demokratiske Republik</tr>
+      </string>
+      <string key="Cook Islands">
+        <tr lang="da">Cookøerne</tr>
+      </string>
+      <string key="Costa Rica">
+        <tr lang="da">Costa Rica</tr>
+      </string>
+      <string key="Croatia">
+        <tr lang="da">Kroatien</tr>
+      </string>
+      <string key="Cuba">
+        <tr lang="da">Cuba</tr>
+      </string>
+      <string key="Cyprus">
+        <tr lang="da">Cypern</tr>
+      </string>
+      <string key="Czech Republic">
+        <tr lang="da">Tjekkiet</tr>
+      </string>
+      <string key="Cõte d'Ivoire">
+        <tr lang="da">Elfenbenskysten</tr>
+      </string>
+      <string key="Denmark">
+        <tr lang="da">Danmark</tr>
+      </string>
+      <string key="Djibouti">
+        <tr lang="da">Djibouti</tr>
+      </string>
+      <string key="Dominica">
+        <tr lang="da">Dominica</tr>
+      </string>
+      <string key="Dominican Republic">
+        <tr lang="da">Dominikanske Republik</tr>
+      </string>
+      <string key="Ecuador">
+        <tr lang="da">Ecuador</tr>
+      </string>
+      <string key="Egypt">
+        <tr lang="da">Egypten</tr>
+      </string>
+      <string key="El Salvador">
+        <tr lang="da">El Salvador</tr>
+      </string>
+      <string key="Equatorial Guinea">
+        <tr lang="da">Ækvatorialguinea</tr>
+      </string>
+      <string key="Eritrea">
+        <tr lang="da">Eritrea</tr>
+      </string>
+      <string key="Estonia">
+        <tr lang="da">Estland</tr>
+      </string>
+      <string key="Ethiopia">
+        <tr lang="da">Etiopien</tr>
+      </string>
+      <string key="Falkland Islands">
+        <tr lang="da">Falklandsøerne</tr>
+      </string>
+      <string key="Faroe Islands">
+        <tr lang="da">Færørerne</tr>
+      </string>
+      <string key="Fiji">
+        <tr lang="da">Fiji</tr>
+      </string>
+      <string key="Finland">
+        <tr lang="da">Finland</tr>
+      </string>
+      <string key="France">
+        <tr lang="da">Frankrig</tr>
+      </string>
+      <string key="French Guiana">
+        <tr lang="da">Fransk Guyana</tr>
+      </string>
+      <string key="French Polynesia">
+        <tr lang="da">Fransk Polynesien</tr>
+      </string>
+      <string key="French Southern Territories">
+        <tr lang="da">Franske Sydlige og Antarktiske Territorier</tr>
+      </string>
+      <string key="Gabon">
+        <tr lang="da">Gabon</tr>
+      </string>
+      <string key="Gambia">
+        <tr lang="da">Gambia</tr>
+      </string>
+      <string key="Georgia">
+        <tr lang="da">Georgien</tr>
+      </string>
+      <string key="Germany">
+        <tr lang="da">Tyskland</tr>
+      </string>
+      <string key="Ghana">
+        <tr lang="da">Ghana</tr>
+      </string>
+      <string key="Gibraltar">
+        <tr lang="da">Gibraltar</tr>
+      </string>
+      <string key="Greece">
+        <tr lang="da">Grækkenland</tr>
+      </string>
+      <string key="Greenland">
+        <tr lang="da">Grønland</tr>
+      </string>
+      <string key="Grenada">
+        <tr lang="da">Grenada</tr>
+      </string>
+      <string key="Guadeloupe">
+        <tr lang="da">Guadeloupe</tr>
+      </string>
+      <string key="Guam">
+        <tr lang="da">Guam</tr>
+      </string>
+      <string key="Guatemala">
+        <tr lang="da">Guatemala</tr>
+      </string>
+      <string key="Guernsey">
+        <tr lang="da">Guernsey</tr>
+      </string>
+      <string key="Guinea">
+        <tr lang="da">Guinea</tr>
+      </string>
+      <string key="Guinea-Bissau">
+        <tr lang="da">Guinea-Bissau</tr>
+      </string>
+      <string key="Guyana">
+        <tr lang="da">Guyana</tr>
+      </string>
+      <string key="Haiti">
+        <tr lang="da">Haiti</tr>
+      </string>
+      <string key="Heard Island and McDonald Islands">
+        <tr lang="da">Heard- og McDonald-øerne</tr>
+      </string>
+      <string key="Holy See">
+        <tr lang="da">Vatikanstaten</tr>
+      </string>
+      <string key="Honduras">
+        <tr lang="da">Honduras</tr>
+      </string>
+      <string key="Hong Kong">
+        <tr lang="da">Hong Kong</tr>
+      </string>
+      <string key="Hungary">
+        <tr lang="da">Ungarn</tr>
+      </string>
+      <string key="Iceland">
+        <tr lang="da">Island</tr>
+      </string>
+      <string key="India">
+        <tr lang="da">Indien</tr>
+      </string>
+      <string key="Indonesia">
+        <tr lang="da">Indonesien</tr>
+      </string>
+      <string key="Iran, Islamic Republic of">
+        <tr lang="da">Iran</tr>
+      </string>
+      <string key="Iraq">
+        <tr lang="da">Irak</tr>
+      </string>
+      <string key="Ireland">
+        <tr lang="da">Irland</tr>
+      </string>
+      <string key="Isle of Man">
+        <tr lang="da">Isle of Man</tr>
+      </string>
+      <string key="Israel">
+        <tr lang="da">Israel</tr>
+      </string>
+      <string key="Italy">
+        <tr lang="da">Italien</tr>
+      </string>
+      <string key="Jamaica">
+        <tr lang="da">Jamaica</tr>
+      </string>
+      <string key="Japan">
+        <tr lang="da">Japan</tr>
+      </string>
+      <string key="Jersey">
+        <tr lang="da">Jersey</tr>
+      </string>
+      <string key="Jordan">
+        <tr lang="da">Jordan</tr>
+      </string>
+      <string key="Kazakhstan">
+        <tr lang="da">Kasakhstan</tr>
+      </string>
+      <string key="Kenya">
+        <tr lang="da">Kenya</tr>
+      </string>
+      <string key="Kiribati">
+        <tr lang="da">Kiribati</tr>
+      </string>
+      <string key="Korea, Democratic People's Republic of">
+        <tr lang="da">Nordkorea</tr>
+      </string>
+      <string key="Korea, Republic of">
+        <tr lang="da">Sydkorea</tr>
+      </string>
+      <string key="Kuwait">
+        <tr lang="da">Kuwait</tr>
+      </string>
+      <string key="Kyrgyzstan">
+        <tr lang="da">Kirgisistan</tr>
+      </string>
+      <string key="Lao, People's Democratic Republic">
+        <tr lang="da">Laos</tr>
+      </string>
+      <string key="Latvia">
+        <tr lang="da">Letland</tr>
+      </string>
+      <string key="Lebanon">
+        <tr lang="da">Libanon</tr>
+      </string>
+      <string key="Lesotho">
+        <tr lang="da">Lesotho</tr>
+      </string>
+      <string key="Liberia">
+        <tr lang="da">Liberien</tr>
+      </string>
+      <string key="Libyan Arab Jamahiriya">
+        <tr lang="da">Libyen</tr>
+      </string>
+      <string key="Liechtenstein">
+        <tr lang="da">Liechtenstein</tr>
+      </string>
+      <string key="Lithuania">
+        <tr lang="da">Litauen</tr>
+      </string>
+      <string key="Luxembourg">
+        <tr lang="da">Luxemborg</tr>
+      </string>
+      <string key="Macau">
+        <tr lang="da">Macau</tr>
+      </string>
+      <string key="Macedonia, The Former Yugoslav Republic of">
+        <tr lang="da">Makedonien, Den Tidligere Jugoslaviske Republik</tr>
+      </string>
+      <string key="Madagascar">
+        <tr lang="da">Madagaskar</tr>
+      </string>
+      <string key="Malawi">
+        <tr lang="da">Malawi</tr>
+      </string>
+      <string key="Malaysia">
+        <tr lang="da">Malaysia</tr>
+      </string>
+      <string key="Maldives">
+        <tr lang="da">Maldiverne</tr>
+      </string>
+      <string key="Mali">
+        <tr lang="da">Mali</tr>
+      </string>
+      <string key="Malta">
+        <tr lang="da">Malta</tr>
+      </string>
+      <string key="Marshall Islands">
+        <tr lang="da">Marshalløerne</tr>
+      </string>
+      <string key="Martinique">
+        <tr lang="da">Martinique</tr>
+      </string>
+      <string key="Mauritania">
+        <tr lang="da">Mauretanien</tr>
+      </string>
+      <string key="Mauritius">
+        <tr lang="da">Mauritius</tr>
+      </string>
+      <string key="Mayotte">
+        <tr lang="da">Mayotte</tr>
+      </string>
+      <string key="Mexico">
+        <tr lang="da">Mexico</tr>
+      </string>
+      <string key="Micronesia, Federated States of">
+        <tr lang="da">Mikronesien</tr>
+      </string>
+      <string key="Moldova">
+        <tr lang="da">Moldova</tr>
+      </string>
+      <string key="Monaco">
+        <tr lang="da">Monaco</tr>
+      </string>
+      <string key="Mongolia">
+        <tr lang="da">Mongoliet</tr>
+      </string>
+      <string key="Montenegro">
+        <tr lang="da">Montenegro</tr>
+      </string>
+      <string key="Montserrat">
+        <tr lang="da">Montserrat</tr>
+      </string>
+      <string key="Morocco">
+        <tr lang="da">Marokko</tr>
+      </string>
+      <string key="Mozambique">
+        <tr lang="da">Mozambique</tr>
+      </string>
+      <string key="Myanmar">
+        <tr lang="da">Myanmar</tr>
+      </string>
+      <string key="Namibia">
+        <tr lang="da">Namibia</tr>
+      </string>
+      <string key="Nauru">
+        <tr lang="da">Nauru</tr>
+      </string>
+      <string key="Nepal">
+        <tr lang="da">Nepal</tr>
+      </string>
+      <string key="Netherlands">
+        <tr lang="da">Holland</tr>
+      </string>
+      <string key="Netherlands Antilles">
+        <tr lang="da">Nederlandske Antiller</tr>
+      </string>
+      <string key="New Caledonia">
+        <tr lang="da">Ny Kaledonien</tr>
+      </string>
+      <string key="New Zealand">
+        <tr lang="da">New Zealand</tr>
+      </string>
+      <string key="Nicaragua">
+        <tr lang="da">Nicaragua</tr>
+      </string>
+      <string key="Niger">
+        <tr lang="da">Niger</tr>
+      </string>
+      <string key="Nigeria">
+        <tr lang="da">Nigeria</tr>
+      </string>
+      <string key="Niue">
+        <tr lang="da">Niue</tr>
+      </string>
+      <string key="Norfolk Island">
+        <tr lang="da">Norfolk Island</tr>
+      </string>
+      <string key="Northern Mariana Islands">
+        <tr lang="da">Nordmarianerne</tr>
+      </string>
+      <string key="Norway">
+        <tr lang="da">Norge</tr>
+      </string>
+      <string key="Oman">
+        <tr lang="da">Oman</tr>
+      </string>
+      <string key="Pakistan">
+        <tr lang="da">Pakistan</tr>
+      </string>
+      <string key="Palau">
+        <tr lang="da">Palau</tr>
+      </string>
+      <string key="Palestinian Territory">
+        <tr lang="da">Palæstina</tr>
+      </string>
+      <string key="Panama">
+        <tr lang="da">Panama</tr>
+      </string>
+      <string key="Papua New Guinea">
+        <tr lang="da">Papua Ny Guinea</tr>
+      </string>
+      <string key="Paraguay">
+        <tr lang="da">Paraguay</tr>
+      </string>
+      <string key="Peru">
+        <tr lang="da">Peru</tr>
+      </string>
+      <string key="Philippines">
+        <tr lang="da">Filippinerne</tr>
+      </string>
+      <string key="Pitcairn">
+        <tr lang="da">Pitcairn</tr>
+      </string>
+      <string key="Poland">
+        <tr lang="da">Polen</tr>
+      </string>
+      <string key="Portugal">
+        <tr lang="da">Portugal</tr>
+      </string>
+      <string key="Puerto Rico">
+        <tr lang="da">Puerto Rico</tr>
+      </string>
+      <string key="Qatar">
+        <tr lang="da">Qatar</tr>
+      </string>
+      <string key="Romania">
+        <tr lang="da">Romanien</tr>
+      </string>
+      <string key="Russian Federation">
+        <tr lang="da">Rusland</tr>
+      </string>
+      <string key="Rwanda">
+        <tr lang="da">Rwanda</tr>
+      </string>
+      <string key="Réunion">
+        <tr lang="da">Réunion</tr>
+      </string>
+      <string key="Saint Barthélemy">
+        <tr lang="da">Saint Barthélemy</tr>
+      </string>
+      <string key="Saint Helena">
+        <tr lang="da">Sankt Helena</tr>
+      </string>
+      <string key="Saint Kitts and Nevis">
+        <tr lang="da">Saint Kitts og Nevis</tr>
+      </string>
+      <string key="Saint Lucia">
+        <tr lang="da">Saint Lucia</tr>
+      </string>
+      <string key="Saint Martin">
+        <tr lang="da">Saint Martin</tr>
+      </string>
+      <string key="Saint Pierre and Miquelon">
+        <tr lang="da">Saint-Pierre og Miquelon</tr>
+      </string>
+      <string key="Saint Vincent and the Grenadines">
+        <tr lang="da">Saint Vincent og Grenadinerne</tr>
+      </string>
+      <string key="Samoa">
+        <tr lang="da">Samoa</tr>
+      </string>
+      <string key="San Marino">
+        <tr lang="da">San Marino</tr>
+      </string>
+      <string key="Sao Tome and Principe ">
+        <tr lang="da">Sao Tome og Principe</tr>
+      </string>
+      <string key="Saudi Arabia">
+        <tr lang="da">Saudi Arabien</tr>
+      </string>
+      <string key="Senegal">
+        <tr lang="da">Senegal</tr>
+      </string>
+      <string key="Serbia">
+        <tr lang="da">Serbien</tr>
+      </string>
+      <string key="Seychelles">
+        <tr lang="da">Seychellerne</tr>
+      </string>
+      <string key="Sierra Leone">
+        <tr lang="da">Sierra Leone</tr>
+      </string>
+      <string key="Singapore">
+        <tr lang="da">Singapore</tr>
+      </string>
+      <string key="Slovakia">
+        <tr lang="da">Slovakiet</tr>
+      </string>
+      <string key="Slovenia">
+        <tr lang="da">Slovenien</tr>
+      </string>
+      <string key="Solomon Islands">
+        <tr lang="da">Salomonøerne</tr>
+      </string>
+      <string key="Somalia">
+        <tr lang="da">Somalia</tr>
+      </string>
+      <string key="South Africa">
+        <tr lang="da">Sydafrika</tr>
+      </string>
+      <string key="South Georgia and the South Sandwich Islands">
+        <tr lang="da">South Georgia og South Sandwich Islands</tr>
+      </string>
+      <string key="Spain">
+        <tr lang="da">Spanien</tr>
+      </string>
+      <string key="Sri Lanka">
+        <tr lang="da">Sri Lanka</tr>
+      </string>
+      <string key="Sudan">
+        <tr lang="da">Sudan</tr>
+      </string>
+      <string key="Suriname">
+        <tr lang="da">Surinam</tr>
+      </string>
+      <string key="Svalbard and Jan Mayen">
+        <tr lang="da">Svalbard og Jan Mayen</tr>
+      </string>
+      <string key="Swaziland">
+        <tr lang="da">Swaziland</tr>
+      </string>
+      <string key="Sweden">
+        <tr lang="da">Sverige</tr>
+      </string>
+      <string key="Switzerland">
+        <tr lang="da">Schweiz</tr>
+      </string>
+      <string key="Syrian Arab Republic">
+        <tr lang="da">Syrien</tr>
+      </string>
+      <string key="Taiwan">
+        <tr lang="da">Taiwan</tr>
+      </string>
+      <string key="Tajikistan">
+        <tr lang="da">Tadsjikistan</tr>
+      </string>
+      <string key="Tanzania, United Republic of">
+        <tr lang="da">Tanzania</tr>
+      </string>
+      <string key="Thailand">
+        <tr lang="da">Thailand</tr>
+      </string>
+      <string key="Timor-Leste">
+        <tr lang="da">Østtimor</tr>
+      </string>
+      <string key="Togo">
+        <tr lang="da">Togo</tr>
+      </string>
+      <string key="Tokelau">
+        <tr lang="da">Tokelau</tr>
+      </string>
+      <string key="Tonga">
+        <tr lang="da">Tonga</tr>
+      </string>
+      <string key="Trinidad and Tobago">
+        <tr lang="da">Trinidad og Tobago</tr>
+      </string>
+      <string key="Tunisia">
+        <tr lang="da">Tunesien</tr>
+      </string>
+      <string key="Turkey">
+        <tr lang="da">Tyrkiet</tr>
+      </string>
+      <string key="Turkmenistan">
+        <tr lang="da">Turkmenistan</tr>
+      </string>
+      <string key="Turks and Caicos Islands">
+        <tr lang="da">Turks- og Caicosøerne</tr>
+      </string>
+      <string key="Tuvalu">
+        <tr lang="da">Tuvalu</tr>
+      </string>
+      <string key="Uganda">
+        <tr lang="da">Uganda</tr>
+      </string>
+      <string key="Ukraine">
+        <tr lang="da">Ukraine</tr>
+      </string>
+      <string key="United Arab Emirates">
+        <tr lang="da">Forenede Arabiske Emirater</tr>
+      </string>
+      <string key="United Kingdom">
+        <tr lang="da">Storbritannien</tr>
+      </string>
+      <string key="United States of America">
+        <tr lang="da">USA</tr>
+      </string>
+      <string key="United States Minor Outlying Islands">
+        <tr lang="da">United States Minor Outlying Islands</tr>
+      </string>
+      <string key="Uruguay">
+        <tr lang="da">Uruguay</tr>
+      </string>
+      <string key="Uzbekistan">
+        <tr lang="da">Uzbekistan</tr>
+      </string>
+      <string key="Vanuatu">
+        <tr lang="da">Vanuatu</tr>
+      </string>
+      <string key="Venezuela">
+        <tr lang="da">Venezuela</tr>
+      </string>
+      <string key="Viet Nam">
+        <tr lang="da">Vietnam</tr>
+      </string>
+      <string key="Virgin Islands, British">
+        <tr lang="da">Jomfruøer, Britiske</tr>
+      </string>
+      <string key="Virgin Islands, U.S.">
+        <tr lang="da">Jomfruøer, Amerikanske</tr>
+      </string>
+      <string key="Wallis and Futuna">
+        <tr lang="da">Wallis og Futuna</tr>
+      </string>
+      <string key="Western Sahara">
+        <tr lang="da">Vestsahara</tr>
+      </string>
+      <string key="Yemen">
+        <tr lang="da">Yemen</tr>
+      </string>
+      <string key="Zambia">
+        <tr lang="da">Zambia</tr>
+      </string>
+      <string key="Zimbabwe">
+        <tr lang="da">Zimbabwe</tr>
+      </string>
+      <string key="Åland Islands">
+        <tr lang="da">Åland</tr>
+      </string>
+    </page>
+  </pages>
+</translation2>
