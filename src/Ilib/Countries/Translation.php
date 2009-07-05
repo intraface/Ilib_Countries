@@ -30,6 +30,16 @@ class Ilib_Countries_Translation
      */
     public static function getFilePath()
     {
-        return dirname(__FILE__) . "/i18n.xml";
+        $path = dirname(__FILE__) . "/i18n.xml";
+        if(file_exists($path)) {
+            return $path;
+        }
+        
+        $path = '@data_dir@/Ilib_Countries/Ilib/Countries/i18n.xml';
+        if(file_exists($path)) {
+            return $path;
+        }
+        
+        throw new Exception('Unable to locate data file');
     }
 }
