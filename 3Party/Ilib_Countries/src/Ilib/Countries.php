@@ -11,8 +11,8 @@ class Ilib_Countries
     
     public function __construct($encoding = 'UTF-8')
     {
-        $file = dirname(__FILE__).'/Countries/countries.xml';
-        $contents = file_get_contents($file);
+        
+        $contents = file_get_contents($this->getFilePath());
         
         $parser = xml_parser_create('utf-8');
         if(!$parser) throw new Exception('Unable to load xml parser');
@@ -112,6 +112,26 @@ class Ilib_Countries
             'EA' => 'East Asia',
             'NA' => 'North America'
         );
+    }
+    
+/**
+     * Function to get file path of xml translations file
+     * 
+     * @return string path
+     */
+    private function getFilePath()
+    {
+        $path = dirname(__FILE__) . "/Countries/countries.xml";
+        if(file_exists($path)) {
+            return $path;
+        }
+        
+        $path = '@data_dir@/Ilib_Countries/Ilib/Countries/countries.xml';
+        if(file_exists($path)) {
+            return $path;
+        }
+        
+        throw new Exception('Unable to locate data file');
     }
 
 }
