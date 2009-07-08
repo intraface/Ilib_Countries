@@ -1,5 +1,23 @@
 <?php
+/**
+ * Class which returns all countries in the world
+ * 
+ * Source: http://www.addressdoctor.com/en/countries_data/countries.asp
+ * 
+ * @package Ilib_Countries
+ * @author sune
+ *
+ */
 
+/** 
+ * Class which returns all countries in the world
+ * 
+ * Source: http://www.addressdoctor.com/en/countries_data/countries.asp
+ * 
+ * @package Ilib_Countries
+ * @author sune
+ *
+ */
 class Ilib_Countries
 {
     
@@ -9,11 +27,24 @@ class Ilib_Countries
      */
     private $countries;
     
-    public function __construct($encoding = 'UTF-8')
+    /**
+     * 
+     * @var oject translation
+     */
+    private $translation;
+    
+    /**
+     * Constructor
+     * 
+     * @param string $encoding either utf-8 or iso-8859-1
+     * @param object $translation
+     * @return void
+     */
+    public function __construct($encoding = 'UTF-8', $translation = NULL)
     {
+        $this->translation = $translation;
         
         $contents = file_get_contents($this->getFilePath());
-        
         $parser = xml_parser_create('utf-8');
         if(!$parser) throw new Exception('Unable to load xml parser');
 
@@ -39,6 +70,11 @@ class Ilib_Countries
         }
     }
     
+    /**
+     * Returns a country by name of if
+     * @param string $name
+     * @return array containing information about the country
+     */
     public function getCountryByName($name) 
     {
         if(isset($this->countries[$name])) {
@@ -47,20 +83,31 @@ class Ilib_Countries
         return false;
     }
     
+    /**
+     * Returns all countries 
+     * 
+     * @return array with countries
+     */
     public function getAll()
     {
         
         $result = array();
         
         foreach($this->countries AS $country => $attribute) {
-            $result[$country] = $country;
+            $result[$country] = $this->translate($country);
         }
         
         asort($result);
         return $result;
     }
     
-    public function getCountriesByRegionName($region, $translation = NULL)
+    /**
+     * Returns countries by region
+     * 
+     * @param mixed $region either string or array containing name of region or regions
+     * @return array with countries
+     */
+    public function getCountriesByRegionName($region)
     {
         if(is_string($region)) {
             $region = array($region);
@@ -78,13 +125,8 @@ class Ilib_Countries
         
         foreach($this->countries AS $country => $attribute) {
             if(in_array($attribute['region'], $region, false)) {
-                if($translation != NULL) {
-                    $result[$country] = $translation->get($country);
-                }
-                else {
-                    $result[$country] = $country;
-                }
-            } 
+                $result[$country] = $this->translate($country);
+            }
         }
         
         asort($result);
@@ -114,7 +156,7 @@ class Ilib_Countries
         );
     }
     
-/**
+    /**
      * Function to get file path of xml translations file
      * 
      * @return string path
@@ -133,9 +175,26 @@ class Ilib_Countries
         
         throw new Exception('Unable to locate data file');
     }
+    
+    /**
+     * Private method for translating countries
+     * 
+     * @param string $phrase
+     * @return string phrase translated
+     */
+    private function translate($phrase)
+    {
+        if(isset($this->translation) && $this->translation != NULL) {
+            if(is_array($this->translation) && is_callable($this->translation)) {
+                return call_user_func($this->translation, $phrase);
+            } elseif(is_object($this->translation) && is_callable(array($this->translation, 'get'))) {
+                return $this->translation->get($phrase);
+            }
+            
+            throw new Exception('Invalid translator argument');
+        }
+        
+        return $phrase;
+    }
 
 }
-
-?>
-
-
