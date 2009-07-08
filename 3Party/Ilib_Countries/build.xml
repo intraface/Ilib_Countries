@@ -4,7 +4,7 @@
     <taskdef classname="phing.tasks.ext.IlibPearDeployerTask" name="peardeploy" />
 
     <property name="package-name" value="${phing.project.name}" />
-    <property name="version" value="0.1.0" />
+    <property name="version" value="1.0.0" />
     <property name="stability" value="stable" />
     <property name="pear.channel" value="public.intraface.dk" />
 
@@ -54,12 +54,15 @@
             <dependencies>
                 <php minimum_version="5.2.0" />
                 <pear minimum_version="1.6.0" recommended_version="1.6.1" />
+                <package name="Translation2" channel="pear.php.net" recommended_version="2.0.1" minimum_version="2.0.0" />
             </dependencies>
-            <notes>* Initial release</notes>
+            <notes>* Added translation to construct</notes>
+            <replacement path="Ilib/Countries/Translation.php" type="pear-config" from="@data_dir@" to="data_dir" />
+            <replacement path="Ilib/Countries.php" type="pear-config" from="@data_dir@" to="data_dir" />
         </d51pearpkg2>
     </target>
 
-    <target name="build" depends="prepare, export, test, phpcs, php-documentor, make-pear-package"></target>
+    <target name="build" depends="prepare, export,  phpcs, php-documentor, make-pear-package"></target>
     <target name="make-pear-package" depends="pear">
         <tar compression="gzip" destfile="${build.dir}/${package-name}-${version}.tgz" basedir="${build.dir}/package" />
     </target>
